@@ -12,7 +12,7 @@ function App() {
   return (
     <>
       <div className="container mx-auto px-4 ">
-        <div className="mx-auto w-1/4 border px-4 py-4 backdrop-blur-sm rounded-3xl my-9 bg-white/[0.8]">
+        <div className="mx-auto lg:w-1/4 sm:w-full border px-4 py-4 backdrop-blur-sm rounded-3xl my-9 bg-white/[0.8]">
           <WindowHandlersButtons />
           <Profile />
           <hr />
