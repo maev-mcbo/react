@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 import AddTask from "./Components/AddTask";
-import Credits from "./Components/credits";
+import Credits from "./Components/Credits";
 import Menu from "./Components/Menu";
 import Profile from "./Components/Profile";
 import Services from "./Components/Services";
